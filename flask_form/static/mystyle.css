@@ -2,16 +2,14 @@ p
 {
     color:blue
 }
-.head1
+.head1 
 {
     color:green
 }
-form {
-    margin-left: 20px;
-    border: 0;
+input
+{
+    margin: 10px;
 }
-
-input {
-    margin-top:10px;
+form{
+    margin-left: 50px;
 }
-
